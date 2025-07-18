@@ -3,13 +3,14 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.3
 // @description  Translates webpage text into English using the Google Gemini API, with model selection.
-// @author       Your Name
+// @author       Neon
 // @match        *://*/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_registerMenuCommand
 // @connect      generativelanguage.googleapis.com
+// @downloadURL  https://raw.githubusercontent.com/TranNeon/Genslate/refs/heads/master/gemini-translator.user.js
 // ==/UserScript==
 
 (function() {

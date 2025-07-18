@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Gemini Page Translator
 // @namespace    http://tampermonkey.net/
-// @version      1.3
+// @version      1.4
 // @description  Translates webpage text into English using the Google Gemini API, with model selection.
 // @author       Neon
 // @match        *://*/*
